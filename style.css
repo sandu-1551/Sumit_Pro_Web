@@ -33,7 +33,7 @@ body {
     width: 180px;
     height: 180px;
     object-fit: cover;
-    border-radius: 20px;
+    border-radius: 100px;
     border: 3px solid #818cf8;
 }
 
@@ -64,7 +64,7 @@ h2 {
 .card {
     background: #1e293b;
     padding: 25px;
-    border-radius: 16px;
+    border-radius: 20px;
     text-decoration: none;
     color: white;
     border: 1px solid #334155;
